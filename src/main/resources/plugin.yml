@@ -1,0 +1,4 @@
+name: craftmiss
+version: '${project.version}'
+main: com.github.kumo0621.craftmiss.craftmiss
+api-version: 1.16
